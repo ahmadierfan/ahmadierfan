@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Erfan Ahmadi.
 - 👀 I’m interested in creating value and learning science .
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on senior laravel and nuxt js team.
+- 💞️ I’m expert in laravel and nuxt js.
 - 📫 ahmadierfan.it@gmail.com
 
 <!---
